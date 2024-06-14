@@ -1,0 +1,21 @@
+.container1{
+    width: 50%;
+    height: 50%;
+    display: block;
+    position: absolute; 
+     justify-content: center;
+    align-items: center;
+}
+
+
+.postitem{
+    width: 40%;
+    display: block;
+    padding: 60px;
+  
+    
+}
+img{
+    width: 50%;
+    height: 50%;
+}

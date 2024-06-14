@@ -1,0 +1,25 @@
+.container{
+    background-color: rgb(53, 46, 11);
+    height: 150px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 20px;
+}
+
+
+h2{
+    color: rgb(175, 148, 177);
+    position: relative;
+    left:700px;
+
+  }
+  .telefon{
+    width: 20px;
+    height: 20px;
+  }
+  .gmail{
+    width: 20px;
+    height: 20px;
+  }
+  
